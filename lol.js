@@ -1,7 +1,7 @@
 const evilButton = document.getElementById('evil-button')
 const yesbuttonn = document.getElementById('yesbutton')
 const OFFSET = 100
-var snd = new Audio("Daniel Caesar - Best Part (Audio) ft. H.E.R. [vBy7FaapGRo].mp3");
+var snd = new Audio("2nd%20part%20assets/Daniel%20Caesar%20-%20Best%20Part%20(Audio)%20ft.%20H.E.R.%20%5BvBy7FaapGRo%5D.mp3");
 const b = document.getElementById('bro')
 const a = document.getElementById('a')
 
